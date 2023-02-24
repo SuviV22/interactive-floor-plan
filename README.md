@@ -1,6 +1,7 @@
 # InteractiveStationPlan
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+Designed for multiple area selection. Implementation idea is to carry out an event on the selected areas when a button is pressed.
 
 ## Development server
 
